@@ -1,0 +1,19 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry.json",
+  "name": "vino",
+  "homepage": "",
+  "items": [
+    {
+      "name": "button",
+      "type": "registry:block",
+      "title": "Button",
+      "description": "A simple button",
+      "files": [
+        {
+          "path": "src/registry/new-york/button/button.tsx",
+          "type": "registry:component"
+        }
+      ]
+    }
+  ]
+}
